@@ -4,4 +4,3 @@ __pycache__/
 *.pyd
 .Python
 venv/
-*.sqlite3  # Optional: Exclude db.sqlite3 if not needed in repo
